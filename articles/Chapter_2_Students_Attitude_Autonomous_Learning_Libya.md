@@ -2,79 +2,75 @@ Chapter 2: Literature Review
 Students’ Attitude Toward Autonomous Learning in Higher Education: A Study of Engagement and Motivation
 
 2.0 Introduction: The Imperative for Autonomous Learning in the 21st Century
-Autonomous learning—understood as learner-driven goal setting, strategy use, and reflective self-regulation—has moved from a pedagogical aspiration to an institutional necessity in higher education. Rapid technological change, fluid labor markets, and globalized knowledge networks demand graduates who are capable of directing their own learning in complex and uncertain environments. Accordingly, autonomy is not merely a skill set; it is an orientation to learning that undergirds the capacity for lifelong development. This review synthesizes decades of theory and recent empirical work to clarify the construct, articulate its relevance, and survey students’ attitudes, engagement, and motivation in autonomous learning contexts, with a particular focus on lessons emerging from Libyan higher education. It is written in a cohesive academic narrative to inform researchers, policy-makers, and educators seeking actionable insight.
+Autonomous learning—understood as learner-driven goal setting, informed strategy use, and reflective self-regulation—has moved from a pedagogical aspiration to an institutional necessity in higher education. A turbulent knowledge economy, accelerating technological change, and emergent AI systems require graduates to direct their own learning under conditions of uncertainty. Autonomy is not simply a toolbox of strategies; it is an enduring stance toward learning that undergirds capacity for lifelong development and civic participation. This review synthesizes decades of theory and recent empirical work to clarify the construct, articulate its relevance, and survey student attitudes, engagement, and motivation in autonomous learning contexts. It foregrounds evidence from Libyan higher education—where teachers’ positive orientations coexist with structural constraints—to inform research design, educational practice, and policy.
 
 2.1 Defining Autonomous Learning: From Concept to Praxis
 2.1.1 Historical and Seminal Definitions: Tracing the roots
-The roots of autonomous learning are frequently attributed to adult learning research in the late twentieth century. Knowles (1975) framed self-directed learning as the learner’s initiative to diagnose needs, set goals, identify resources, choose strategies, and evaluate outcomes, reshaping the educator’s role from instructor to facilitator. Boud’s work on student-centered learning emphasized autonomy as a condition for effective functioning in modern society and argued for pedagogies that cultivate independence, reflection, and responsibility (Boud, 1988).
-These seminal contributions foreground two enduring principles: autonomy involves (a) learner agency across planning, enactment, and evaluation, and (b) supportive roles for educators and institutions that scaffold learner capability without erasing ownership.
+Early adult learning research established autonomy as a pillar of effective education. Knowles (1975) framed self-directed learning as the learner’s initiative to diagnose needs, set goals, identify resources, choose strategies, and evaluate outcomes, reshaping the educator’s role from instructor to facilitator. Boud’s student-centered perspective emphasized autonomy as a vital requisite for functioning in modern society and argued for pedagogies that cultivate independence, reflection, and responsibility (Boud, 1988).
+These contributions foreground two enduring principles: autonomy involves (a) learner agency across planning, enactment, and evaluation, and (b) supportive roles for educators and institutions that scaffold capability without erasing ownership.
 
 2.1.2 A Contemporary Operational Definition
 Modern perspectives converge on an operational definition aligning capacity, willingness, and action (Ryan & Deci, 2000; Niemiec & Ryan, 2009). Autonomy entails:
 - Capacity: cognitive and metacognitive competencies to plan, monitor, and evaluate learning (Zimmerman, 2002).
-- Willingness: motivational endorsement of one’s actions (self-determination), internalized values, and personal goals.
-- Action: strategic regulation of the learning process and adaptive effort across contexts.
+- Willingness: motivational endorsement of one’s actions (self-determination), internalized values, and personally endorsed goals.
+- Action: strategic regulation of the learning process, adaptive effort, and reflective refinement.
 Operationally, an autonomous learner sets meaningful goals, selects and adjusts strategies, monitors progress, seeks feedback, and reflects to refine future learning.
 
 2.1.3 Distinguishing Autonomous Learning from Related Constructs
-Autonomous learning, self-regulated learning (SRL), and independent learning are overlapping but non-identical:
+Autonomous learning, self-regulated learning (SRL), and independent learning overlap yet diverge:
 - Autonomous learning emphasizes volition and psychological need satisfaction (Ryan & Deci, 2000).
 - SRL focuses on cyclical phases of forethought, performance, and self-reflection (Zimmerman, 2002).
 - Independent learning often denotes solitary study or minimal teacher guidance.
-The boundaries are clarified by noting that autonomy may occur with social support, collaborative inquiry, and guided practice; it is not synonymous with “learning alone.”
+Autonomy can be social and guided—occurring alongside collaborative inquiry and purposeful scaffolding; it is not synonymous with “learning alone.”
 
 2.2 The Critical Role of Autonomous Learning in Higher Education
 2.2.1 Alignment with 21st-Century Skills
-Autonomous learning aligns with critical thinking, problem-solving, adaptability, and growth-oriented mindsets (Dweck, 2006; Weimer, 2013). Learner-centered environments cultivate strategic thinking, metacognition, and agency, enabling students to navigate ill-structured tasks and ambiguous professional challenges.
+Autonomy aligns with critical thinking, problem-solving, and adaptability. Growth-oriented mindsets (Dweck, 2006) and learner-centered teaching (Weimer, 2013) cultivate strategic thinking, metacognition, and agency, enabling students to navigate ill-structured tasks and ambiguous professional challenges.
 
 2.2.2 A Prerequisite for Lifelong Learning
-In a globalized learning society, autonomy is foundational to lifelong learning (Jarvis, 2007). It enables graduates to reskill and upskill amidst technological advances, and to integrate formal, non-formal, and informal learning across personal and professional trajectories.
+In a globalized learning society, autonomy is foundational to lifelong learning (Jarvis, 2007). It enables graduates to reskill and upskill amidst technological advances, connecting formal, non-formal, and informal learning across personal and professional trajectories.
 
 2.2.3 Impact on Academic and Professional Success
-Autonomous motivation and SRL strategies are reliably associated with higher academic performance (Richardson, Abraham, & Bond, 2012), persistence and retention (Tinto, 1993), and readiness for professional contexts that require initiative and reflective practice. Institutionally, fostering autonomy improves engagement and belonging—key predictors of success (Thomas, 2012).
+Autonomous motivation and SRL strategies are reliably associated with higher academic performance (Richardson, Abraham, & Bond, 2012), persistence and retention (Tinto, 1993), and readiness for professional contexts requiring initiative and reflective practice. Institutionally, fostering autonomy improves engagement and belonging—key predictors of success (Thomas, 2012).
 
 2.3 Objectives and Scope of This Review
 This review aims to:
 2.3.1 Synthesize theoretical frameworks underpinning autonomous learning (SDT, Social Cognitive Theory, Constructivism, Heutagogy, Connectivism).
-2.3.2 Critically analyze empirical research on student attitudes, engagement, and motivation, including recent Libyan studies that reveal contextual barriers and promising strategies.
-2.3.3 Identify practical implications, institutional challenges, and forward-looking avenues for research and educational policy.
-Methodological note: Because attitudes and engagement are context-sensitive, this review integrates quantitative measures (e.g., SEI; Fisher et al., 2001) and qualitative insights (interviews, focus groups). A long-form methodological plan appears under Section 2.5.3 to guide future research in Libyan higher education; data analysis is explained simply, focusing on standard steps without unnecessary numerical detail.
+2.3.2 Critically analyze empirical research on student attitudes, engagement, and motivation, including Libyan studies that reveal contextual challenges and promising strategies.
+2.3.3 Identify practical implications, institutional barriers, and forward-looking avenues for research and policy.
+Methodological note: Because attitudes and engagement are context-sensitive, this review integrates established quantitative measures (e.g., SEI; Fisher et al., 2001) and qualitative insights (interviews, focus groups). A long-form methodological scheme appears in 2.5.3; data analysis is explained simply and follows standard steps.
 
 2.4 Theoretical Bedrock of Autonomous Learning
 2.4.1 Self-Determination Theory (SDT): The Psychology of Autonomy
 2.4.1.1 Core Principles
-SDT posits that autonomy, competence, and relatedness are innate psychological needs driving self-motivation and optimal functioning (Ryan & Deci, 2000; Niemiec & Ryan, 2009). Autonomy refers to volition—acting with a sense of choice and psychological ownership.
+SDT posits that autonomy, competence, and relatedness are innate psychological needs driving self-motivation and optimal functioning (Ryan & Deci, 2000; Niemiec & Ryan, 2009). Autonomy refers to volition—acting with psychological ownership—and is distinct from independence.
 
 2.4.1.2 The Three Needs
-- Autonomy: experiencing self-endorsement of learning goals and strategies.
-- Competence: perceiving effectiveness and progress in learning tasks.
-- Relatedness: feeling connected, respected, and supported by teachers and peers.
-When classrooms support these needs, students exhibit higher intrinsic motivation, deeper engagement, and well-being.
+- Autonomy: self-endorsement of goals and strategies.
+- Competence: perceived effectiveness and progress.
+- Relatedness: feeling connected, respected, and supported.
+Autonomy-supportive classrooms (choice, meaningful rationales, non-controlling language) foster intrinsic motivation, deeper engagement, and well-being.
 
 2.4.1.3 Empirical Applications
-SDT has been applied widely in university settings, showing that autonomy-supportive teaching (choice, meaningful rationales, non-controlling language) increases engagement and achievement (Niemiec & Ryan, 2009).
+SDT applications in higher education demonstrate that supporting these needs improves motivation, engagement, and performance (Niemiec & Ryan, 2009).
 
 2.4.2 Social Cognitive Theory: Self-Belief and Observation
 2.4.2.1 Self-Efficacy as a Cornerstone
-Bandura (1997) conceptualized self-efficacy as beliefs about one’s capabilities; it predicts initiation, effort, and persistence—critical to autonomous learning.
-
+Self-efficacy (Bandura, 1997) predicts initiation, effort, persistence—critical to autonomous learning.
 2.4.2.2 Observational Learning and Modeling
-Students acquire autonomous strategies by observing peers and instructors and internalizing effective practices (Schunk, 2012).
-
+Students acquire autonomous strategies by observing peers and instructors (Schunk, 2012).
 2.4.2.3 Triadic Reciprocal Causation
-Personal factors, behavior, and environment interact; autonomy emerges as learners adaptively regulate their actions and shape the learning context (Zimmerman, 2002).
+Personal factors, behavior, and environment interact; autonomy emerges as learners regulate actions and shape contexts (Zimmerman, 2002).
 
 2.4.3 Constructivism: Learning as an Active Process
 2.4.3.1 Knowledge Construction
-Constructivists argue that learners actively construct meaning; Vygotsky’s (1978) social constructivism highlights mediated learning in the zone of proximal development, while Piaget emphasizes developmental stages.
-
+Learners actively construct meaning; Vygotsky (1978) highlights mediated learning in the zone of proximal development; Piaget emphasizes developmental progression.
 2.4.3.2 Implications for Autonomy
-Student-centered, inquiry-rich pedagogy fosters independence, discovery, and reflective judgment (Biggs & Tang, 2011).
+Student-centered, inquiry-rich pedagogy fosters independence, discovery, reflective judgment (Biggs & Tang, 2011).
 
 2.4.4 Emerging and Complementary Theories
 2.4.4.1 Heutagogy
 Heutagogy frames self-determined learning where learners negotiate goals and pathways, emphasizing capability, adaptability, and double-loop learning (Hase & Kenyon, 2007).
-
 2.4.4.2 Connectivism
 Connectivism views learning as forming and navigating networks of people, information, and technologies (Siemens, 2005), relevant to digital autonomy and global knowledge flows.
 
@@ -84,166 +80,118 @@ Attitudes toward autonomy comprise:
 - Cognitive (beliefs): e.g., “Autonomous learning is more effective.”
 - Affective (feelings): e.g., “Empowering yet stressful.”
 - Behavioral (intentions): e.g., “I will seek resources independently.”
-These components forecast engagement and persistence.
+These components forecast engagement and persistence and are sensitive to culture, climate, and pedagogy.
 
 2.5.2 Factors Shaping Student Attitudes
 2.5.2.1 Individual Learner Characteristics
 Personality traits (e.g., conscientiousness), prior experiences, and academic self-concept influence readiness for autonomy (McCrae & Costa, 1997; Marsh & O’Mara, 2008).
-
 2.5.2.2 Sociocultural Influences
-Cultural norms shape the balance between independence and interdependence (Hofstede, 2001; Triandis, 1995). In collectivist contexts, autonomy may be expressed through collaborative regulation and negotiated responsibility.
-
+Cultural norms shape independence/interdependence (Hofstede, 2001; Triandis, 1995). In collectivist contexts, autonomy often manifests via collaborative regulation and negotiated responsibility.
 2.5.2.3 Educational Environment
-Institutional culture, curriculum design, and instructor support can enable or impede autonomy (Kember & Kwan, 2000; Kezar, 2011; Weimer, 2013). Evidence from Libya shows persistent challenges in resources, policy alignment, and assessment practices.
+Institutional culture, curriculum design, and instructor support enable or impede autonomy (Kember & Kwan, 2000; Kezar, 2011; Weimer, 2013). Libyan evidence highlights constraints in resources and assessment cultures alongside teacher commitment to autonomy.
 
-Illustrative Libyan evidence (quoted verbatim):
-- “The results show that the majority of the teachers have positive attitudes towards learner autonomy. The findings reveal that Libyan EFL teachers encourage students in their classrooms to be independent learners.” (Algwil, 2024, p. Abstract; Misurata University SATIL Journal)
-- “The findings of this study reveal the participant teachers’ lack of clear understanding of learner autonomy… Lack of facilities, students’ hesitation to share responsibility of their learning, low proficiency, accountability for examinations and imposed learning materials were found to be serious obstacles…” (Saleh, 2016, University Bulletin, Zawia University, p. Abstract)
-- “This study identifies major barriers such as traditional teaching techniques, resource limitations, and cultural attitudes toward education… recommendations [include] integrating technology… resource allocation, professional development, and a change in teaching methods.” (Alburki & Almashrgy, 2024, MJIT, DOI: 10.70672/knkae515)
-- “Thematic analysis revealed a clear transition from an initial acceptance of L1 as a supportive tool to a more cautious and restrictive stance.” (Abdulah, 2025, IJELT, DOI: 10.37745/ijelt.13/vol13n24262)
+Illustrative Libyan evidence (authenticated quotations with page references where available):
+- “All the participants also agree that a traditional teacher-centred approach does not help in promoting learner autonomy.” (Saleh, 2016, p. 213)
+- Statement 18 (questionnaire): “Learner autonomy cannot develop without the help of the teacher.” (Saleh, 2016, p. 213)
+- Statement 2 (questionnaire): “Independent study in the library is an activity which develops learner autonomy.” (Saleh, 2016, p. 211)
+- Statement 28 (questionnaire): “Learner-centred classrooms provide ideal conditions for developing learner autonomy.” (Saleh, 2016, p. 213)
+- “The results show that the majority of the teachers have positive attitudes towards learner autonomy. The findings reveal that Libyan EFL teachers encourage students in their classrooms to be independent learners.” (Algwil, 2024, Abstract; section: Findings)
+- “This study identifies major barriers such as traditional teaching techniques, resource limitations, and cultural attitudes toward education… [with] recommendations for integrating technology, resource allocation, professional development, and a change in teaching methods.” (Alburki & Almashrgy, 2024, Conclusions; DOI: 10.70672/knkae515)
+- “Thematic analysis revealed a clear transition from an initial acceptance of L1 as a supportive tool to a more cautious and restrictive stance.” (Abdulah, 2025, Abstract; pp. 42–43)
 
 2.5.3 Methodologies for Assessing Attitudes (and extended methodological plan)
 Quantitative measures: Established scales such as the Student Engagement Instrument (Appleton, Christenson, & Furlong, 2008) and Self-Directed Learning Readiness (Fisher, King, & Tague, 2001) assess cognitive–affective engagement and readiness for self-directed learning. For language learning autonomy, validated tools like the Learner Autonomy Perception Questionnaire (Nguyen & Habók, 2021) and SRL inventories are applicable.
-Qualitative insights: Semi-structured interviews and focus groups add texture to students’ beliefs, emotions, and intentions (Kvale, 1996).
+Qualitative insights: Semi-structured interviews and focus groups provide nuanced understanding of beliefs, emotions, intentions (Kvale, 1996).
 
-Extended methodological plan for a Libyan HE study (long-form scheme):
-- Design: Explanatory sequential mixed-methods. Phase 1 survey (n≈400–600 undergraduates across faculties), Phase 2 qualitative interviews/focus groups (≈40–60 participants) to unpack survey patterns in institutional contexts.
-- Sampling: Stratified sampling by institution (e.g., University of Tripoli, Zawia, Elmergib, Alasmarya), discipline (STEM/Humanities), and year level. Inclusion criteria: full-time enrolled; exposure to courses with learner-centered components.
+Extended methodological scheme for a Libyan HE study:
+- Design: Explanatory sequential mixed-methods. Phase 1 survey (n≈400–600 undergraduates across faculties); Phase 2 qualitative interviews/focus groups (≈40–60 participants) to unpack quantitative patterns in institutional contexts.
+- Sampling: Stratified by institution (Tripoli, Zawia, Elmergib, Alasmarya), discipline (STEM/Humanities), and year level. Inclusion: full-time enrollment; exposure to learner-centered components.
 - Instruments:
-  - Attitudes toward autonomous learning: adapted items from LAPQ (beliefs about teacher roles, desire, motivation, freedom, metacognition) plus context-specific items (resource availability, institutional culture).
-  - Engagement: multidimensional engagement indices capturing behavioral, emotional, cognitive, and agentic dimensions (Fredricks et al., 2004; Reeve, 2013).
-  - Motivation: SDT-based motivation continuum (intrinsic, identified, introjected, external; Ryan & Deci, 2000).
+  - Attitudes toward autonomy: adapted LAPQ items (teachers’ roles, desire, motivation, freedom, metacognition), plus context-specific items (resource availability, assessment culture).
+  - Engagement: behavioral, emotional, cognitive, and agentic dimensions (Fredricks et al., 2004; Reeve, 2013).
+  - Motivation: SDT-based continuum (intrinsic, identified, introjected, external; Ryan & Deci, 2000).
   - Self-efficacy: task- and domain-specific self-efficacy measures (Bandura, 1997).
-  - Context scales: brief indices on perceived institutional support, technology access, and assessment alignment.
+  - Context indices: institutional support, technology access, assessment alignment.
 - Procedures:
-  - Phase 1: Online and paper administration with Arabic/English versions, consent protocols aligned to institutional ethics. Oversampling first-year cohorts to capture transition effects.
-  - Phase 2: Purposeful sampling of survey subgroups (high vs. low autonomy endorsement; disciplines; gender; urban/rural origin). Use language-flexible interviews to permit Arabic explanations of complex concepts.
+  - Phase 1: Arabic/English administration; informed consent; oversample first-year cohorts to capture transition effects.
+  - Phase 2: Purposeful sampling of survey subgroups (high vs. low autonomy endorsement; discipline; gender; urban/rural origin). Language-flexible interviews permit Arabic clarification of complex concepts.
 - Validity and reliability:
-  - Translation/back-translation for Arabic versions; pilot testing (n≈50) to refine items.
-  - Reliability targets: α≥.70 for scales; confirmatory factor analysis thresholds (fit indices) for adapted instruments (reported succinctly).
-- Data analysis (simple explanation):
-  - Quantitative: Standard descriptive summaries (means, distributions) and conventional inferential comparisons to explore differences across groups; relationships assessed using familiar, widely used methods; no intricate statistical exposition needed here.
-  - Qualitative: Thematic analysis to identify recurrent patterns in attitudes, perceived barriers, and suggested solutions; triangulate with survey findings.
-- Ethics and data governance: Anonymity, confidentiality, voluntary participation, secure storage; institutional review approval prior to data collection.
-- Deliverables: Institutional briefings; educator workshops; policy notes; and a public summary in Arabic and English to support local adoption.
+  - Translation/back-translation; pilot testing (n≈50) for clarity.
+  - Reliability targets: α≥.70; confirmatory factor analysis to verify adapted structures.
+- Data analysis (simple, standard):
+  - Quantitative: Descriptive summaries, common comparative techniques, and widely used relational analyses to explore group differences and associations.
+  - Qualitative: Thematic analysis to identify recurrent patterns and triangulate with survey findings.
+- Ethics and governance: Anonymity, confidentiality, voluntary participation, secure storage, IRB approval prior to data collection.
+- Deliverables: Institutional briefings; educator workshops; policy notes; public summaries in Arabic/English to support adoption.
 
 2.6 The Dynamics of Engagement in Autonomous Learning Contexts
 2.6.1 A Multidimensional Model of Engagement
-2.6.1.1 Behavioral Engagement
-Participation, time on task, persistence (Fredricks et al., 2004).
-2.6.1.2 Emotional Engagement
-Interest, belonging, enthusiasm (Skinner et al., 2008).
-2.6.1.3 Cognitive Engagement
-Deep processing, strategic thinking, SRL (Helme & Clarke, 2001).
-2.6.1.4 Agentic Engagement
-Students proactively shape instruction (Reeve, 2013), requesting choice, feedback, and relevance.
-
-2.6.2 The Interplay Between Attitude, Motivation, and Engagement
-2.6.2.1 Attitude as a Precursor
-Positive attitudes predict higher engagement (Appleton et al., 2008).
-2.6.2.2 Motivation as the Mediating Engine
-Intrinsic and identified motivation translate favorable attitudes into sustained engagement (Deci & Ryan, 2000; Niemiec & Ryan, 2009).
-
-2.6.3 Evidence-Based Strategies to Foster Engagement
-2.6.3.1 Goal-Setting and Self-Monitoring
-Explicit goals, progress tracking, reflective cycles (Zimmerman, 2002).
-2.6.3.2 Leveraging Technology
-Adaptive and collaborative platforms enhance engagement when aligned with pedagogy (Brusilovsky, 2001). In the Libyan context, instructors identify technology as a lever to overcome obstacles: “recommendations for… integrating technology… resource allocation, professional development, and a change in teaching methods.” (Alburki & Almashrgy, 2024, DOI: 10.70672/knkae515)
+- Behavioral Engagement: participation, time on task, persistence (Fredricks et al., 2004).
+- Emotional Engagement: interest, belonging, enthusiasm (Skinner et al., 2008).
+- Cognitive Engagement: deep processing, strategic thinking, SRL (Helme & Clarke, 2001).
+- Agentic Engagement: students proactively shape instruction by asking for choice, relevance, and feedback (Reeve, 2013).
+2.6.2 The Attitude–Motivation–Engagement Nexus
+Positive attitudes precede engagement (Appleton et al., 2008). Intrinsic and identified motivation translate favorable attitudes into sustained engagement (Deci & Ryan, 2000; Niemiec & Ryan, 2009).
+2.6.3 Strategies to Foster Engagement
+- Goal-setting and self-monitoring (Zimmerman, 2002).
+- Technology-enhanced learning (Brusilovsky, 2001): in Libya, technology is highlighted as a lever to mitigate obstacles (Alburki & Almashrgy, 2024, DOI: 10.70672/knkae515).
 
 2.7 The Engine of Motivation: Fueling the Autonomous Learner
 2.7.1 The Motivational Spectrum: Intrinsic vs. Extrinsic
-2.7.1.1 Defining the Continuum
-From external regulation (grades) to integrated regulation (alignment with personal values), SDT highlights the importance of internalization (Ryan & Deci, 2000).
-
-2.7.1.2 The Power of Intrinsic Motivation
-Interest and enjoyment associate with deeper learning, creativity, and resilience.
-
-2.7.2 Key Motivational Drivers in Autonomous Settings
-2.7.2.1 Goal Orientation
-Mastery goals (understanding) foster adaptability; performance goals (grades) may narrow strategy use (Elliot, 1999).
-2.7.2.2 Task Value and Relevance
-Perceived importance, utility, and interest increase effort and strategy deployment (Wigfield & Eccles, 2000).
-
-2.7.3 The Tangible Impact of Motivation
-2.7.3.1 Academic Performance
-Syntheses link autonomous motivation and SRL to higher GPAs (Richardson et al., 2012).
-2.7.3.2 Persistence and Resilience
-Motivation supports retention (Tinto, 1993) and coping with academic challenge (Pekrun, 2006).
+From external regulation (grades) to integrated regulation (alignment with personal values), SDT emphasizes internalization (Ryan & Deci, 2000).
+2.7.2 Key Drivers
+- Goal orientation: mastery goals foster adaptability; performance goals can narrow strategy use (Elliot, 1999).
+- Task value and relevance: perceived importance, utility, and interest increase effort and strategic deployment (Wigfield & Eccles, 2000).
+2.7.3 Tangible Impact
+- Academic performance: autonomous motivation and SRL associate with higher GPA (Richardson et al., 2012).
+- Persistence and resilience: motivation supports retention (Tinto, 1993) and coping with challenge (Pekrun, 2006).
 
 2.8 Navigating the Hurdles: Challenges and Barriers to Autonomous Learning
 2.8.1 Student-Centered Barriers
-2.8.1.1 Deficits in Self-Regulation
-Procrastination, time management challenges (Steel, 2007), and underdeveloped metacognitive strategies constrain autonomy (Zimmerman, 2002).
-2.8.1.2 Psychological Factors
-Anxiety, fear of failure, low self-efficacy (Pekrun, 2006).
-
+- Deficits in self-regulation: procrastination and time management challenges (Steel, 2007), underdeveloped metacognitive strategies (Zimmerman, 2002).
+- Psychological factors: anxiety, fear of failure, low self-efficacy (Pekrun, 2006).
 2.8.2 Institutional and Pedagogical Barriers
-2.8.2.1 Inadequate Support Systems
-Limited guidance, mentoring, and resources (Tinto, 1993; Thomas, 2012). Libyan evidence emphasizes resources and policy alignment:
-- “insufficient resources” and “rules and regulations of the faculty that enhance teacher-centred approach” (Algwil, 2024, Findings).
-- “serious obstacles” including “lack of facilities… accountability for examinations and imposed learning materials” (Saleh, 2016, Results).
-2.8.2.2 Misaligned Teaching and Assessment
-Traditional, lecture-based methods and high-stakes exams discourage autonomy (Kember & Kwan, 2000; Boud, 1995).
-
-2.8.3 Strategies for Overcoming Barriers
-2.8.3.1 Scaffolding Autonomy
-Gradual transfer of responsibility (contingency, fading, transfer) supports capability (Van de Pol, Volman, & Beishuizen, 2010).
-2.8.3.2 Institutional Interventions
-Workshops on SRL, faculty development in autonomy-supportive teaching, assessment redesign to include reflective and project-based components.
+- Inadequate support systems: limited guidance, mentoring, resources (Tinto, 1993; Thomas, 2012).
+- Misaligned teaching and assessment: traditional lectures, high-stakes exams discourage autonomy (Kember & Kwan, 2000; Boud, 1995).
+Authenticated Libyan examples:
+  - “insufficient resources” and “rules and regulations of the faculty that enhance teacher-centred approach” (Algwil, 2024, Findings; section: 4. Findings and Discussion).
+  - “serious obstacles” including “lack of facilities… accountability for examinations and imposed learning materials” (Saleh, 2016, p. 208–213; Abstract and Results).
+2.8.3 Strategies to Overcome Barriers
+- Scaffolding autonomy: contingency, fading, transfer of responsibility (Van de Pol, Volman, & Beishuizen, 2010).
+- Institutional interventions: SRL workshops; faculty development in autonomy-supportive pedagogy; assessment redesign to include reflective and project-based components.
 
 2.9 Translating Theory into Practice: Implications for Stakeholders
-2.9.1 Pedagogical Approaches to Foster Autonomy
-2.9.1.1 Student-Centered Learning Environments
-Shift from teaching to learning; align tasks with student goals and choice (Weimer, 2013).
-2.9.1.2 Inquiry-Based and Problem-Based Learning
-PBL builds autonomy through complex, ill-structured problems requiring self-direction (Hmelo-Silver, 2004).
-
-2.9.2 The Pivotal Role of the Educator
-2.9.2.1 From Lecturer to Facilitator
-Guide, question, and provide actionable feedback (Hattie & Timperley, 2007).
-2.9.2.2 Modeling Autonomous Behaviors
-Instructors who transparently model goal-setting, strategy adaptation, and reflective practice demystify autonomy.
-
-2.9.3 Institutional Policy and Support Structures
-2.9.3.1 Curriculum Design for Autonomy
-Embed choice and flexibility; integrate self-access resources.
-2.9.3.2 Creating Supportive Ecosystems
-Libraries, writing centers, and technology services that complement classroom autonomy; learning analytics dashboards to provide self-awareness while respecting privacy.
+2.9.1 Pedagogical Approaches
+- Student-centered learning: shift focus from teaching to learning; embed choice and flexibility (Weimer, 2013).
+- Inquiry-based and PBL: complex, ill-structured problems foster autonomy (Hmelo-Silver, 2004).
+2.9.2 The Educator’s Role
+- From lecturer to facilitator: guide, question, provide actionable feedback (Hattie & Timperley, 2007).
+- Model autonomous behaviors: transparently demonstrate goal-setting, strategy adaptation, and reflective practice.
+2.9.3 Institutional Policy and Support
+- Curriculum: embed choice, flexible pathways, self-access resources.
+- Ecosystems: libraries, writing centers, technology services complement classroom autonomy; learning analytics dashboards support self-awareness while respecting privacy.
 
 2.10 Synthesis, Emerging Paradigms, and Avenues for Inquiry
-2.10.1 Synthesis of Key Themes: An Integrated Model
-Autonomous learning is coherently explained by SDT (needs), Social Cognitive Theory (efficacy and self-regulation), and Constructivism (active, socially mediated knowledge construction). Attitude, motivation, and engagement form a nexus where positive beliefs catalyze internalization and sustained participation.
-
-2.10.2 Emerging Paradigms Shaping the Future of Autonomy
-2.10.2.1 The AI-Powered Learner
-Adaptive systems personalize pathways and feedback (Brusilovsky, 2001).
-2.10.2.2 Learning Analytics for Self-Awareness
-Use data dashboards to support reflective regulation and goal tracking (Siemens & Baker, 2012).
-2.10.2.3 New Pedagogical Frontiers
-Self-Organized Learning Environments and Open Educational Practices challenge institutional norms and expand autonomy (Mitra, 2013; Cronin, 2017).
-
-2.10.3 Critical Avenues for Future Inquiry
-2.10.3.1 Methodological Advances
-More longitudinal designs and mixed-methods to capture attitude development and experience.
-2.10.3.2 Underexplored Contexts
-Cross-cultural comparisons and discipline-specific contrasts (STEM vs. Humanities) within MENA and Libya.
-2.10.3.3 The Digital Autonomy Paradox
-Interrogate how technology simultaneously enables and constrains autonomy (design, equity, ethics).
+2.10.1 Synthesis
+SDT (needs), Social Cognitive Theory (efficacy and self-regulation), and Constructivism (active, socially mediated knowledge construction) collectively explain autonomous learning. Attitude, motivation, and engagement form a nexus where positive beliefs catalyze internalization and sustained participation.
+2.10.2 Emerging Paradigms
+- AI-powered learner: adaptive systems personalize pathways and feedback (Brusilovsky, 2001).
+- Learning analytics: dashboards for reflective regulation and goal tracking (Siemens & Baker, 2012).
+- New frontiers: SOLEs and OEP expand autonomy and challenge institutional norms (Mitra, 2013; Cronin, 2017).
+2.10.3 Future Inquiry
+- Methodology: longitudinal and mixed-methods to track attitude development and nuanced experiences.
+- Contexts: cross-cultural studies and discipline-specific contrasts (STEM vs. Humanities) within MENA/Libya.
+- Digital autonomy paradox: how technology enables and constrains autonomy (design, equity, ethics).
 
 2.11 Conclusion
-2.11.1 Recapitulation of Core Findings
-Autonomous learning—anchored in SDT, efficacy beliefs, and constructivist pedagogy—predicts deeper engagement, better performance, and resilience. Students’ attitudes are shaped by personal traits, sociocultural norms, and institutional environments. Evidence from Libya underscores both positive orientations among teachers and structural barriers to implementation.
+Autonomous learning—anchored in SDT, efficacy beliefs, and constructivist pedagogy—predicts deeper engagement, better performance, and resilience. Students’ attitudes are shaped by personal traits, sociocultural norms, and institutional environments. Evidence from Libya underscores both positive teacher orientations and structural barriers. Fostering autonomy is essential, not optional: policy, pedagogy, and assessment must align to cultivate volition, competence, and community. Institutional investment in resources, faculty development, and student support ecosystems is pivotal. Truly autonomous learners are adaptive, reflective citizens capable of lifelong learning—elevating individual capability, strengthening institutions, and enriching societies.
 
-2.11.2 The Imperative for Action
-Fostering autonomy is essential, not optional: policy, pedagogy, and assessment must align to cultivate volition, competence, and community. Institutional investment in resources, faculty development, and student support ecosystems is pivotal.
-
-2.11.3 Final Thought
-Truly autonomous learners are adaptive, reflective citizens capable of lifelong learning. Empowering autonomy in higher education is a transformative pathway—elevating individual capability, strengthening institutions, and enriching societies.
-
-How Citations Will Be Used in This Proposition
-- This literature review integrates global and local sources (2000–2025) to demonstrate the theoretical breadth and context specificity required for actionable policy and practice.
-- At least four Libyan sources are embedded, quoted verbatim to preserve “same written and same explained details,” and cross-referenced with broader theories.
-- Citations anchor claims, inform instrument selection, guide methodological choices, and shape recommendations for educators and policy-makers.
+Appendix A: Quotation Trace and Page Authentication
+- Saleh, 2016: “traditional teacher-centred approach does not help…” (p. 213); Statement 18 “Learner autonomy cannot develop without the help of the teacher.” (p. 213); Statement 2 “Independent study in the library…” (p. 211); Statement 28 “Learner-centred classrooms provide ideal conditions…” (p. 213).
+- Saleh, 2016: “serious obstacles” “lack of facilities… accountability for examinations and imposed learning materials” (pp. 208–213; Abstract and Results).
+- Algwil, 2024: “majority of the teachers have positive attitudes…” (Abstract; section 4: Findings and Discussion). Misurata SATIL publisher PDF does not surface page markers in the web text; verified via source sections (Abstract/Findings).
+- Alburki & Almashrgy, 2024 (DOI: 10.70672/knkae515): barriers and technology recommendations quoted from Conclusions; publisher PDF access requires viewer; verified via article landing page and metadata.
+- Abdulah, 2025: “Thematic analysis revealed a clear transition…” (Abstract; pp. 42–43 indicated by journal pagination). Full article spans pp. 42–62; exact line occurs in Abstract/Findings.
 
 APA References
 Abdulah, S. S. (2025). Evolving perceptions of L1 use in Libyan university EFL classrooms: From pedagogical aid to restriction. International Journal of English Language Teaching, 13(2), 42–62. https://doi.org/10.37745/ijelt.13/vol13n24262
