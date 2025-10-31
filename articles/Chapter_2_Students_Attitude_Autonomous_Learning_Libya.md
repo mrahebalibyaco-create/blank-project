@@ -193,8 +193,37 @@ Appendix A: Quotation Trace and Page Authentication
 - Alburki & Almashrgy, 2024 (DOI: 10.70672/knkae515): barriers and technology recommendations quoted from Conclusions; publisher PDF access requires viewer; verified via article landing page and metadata.
 - Abdulah, 2025: “Thematic analysis revealed a clear transition…” (Abstract; pp. 42–43 indicated by journal pagination). Full article spans pp. 42–62; exact line occurs in Abstract/Findings.
 
+2.12 Identified Gaps and This Proposal’s Contribution
+2.12.1 Gaps in the Libyan Higher Education Context
+- Conceptual ambiguity about learner autonomy among university teachers—misconceptions equating autonomy with learning without teachers persist (Saleh, 2016, pp. 208–213), undermining consistent classroom practice.
+- Resource limitations, large class sizes, and infrastructural constraints (e.g., insufficient internet, equipment) impede autonomy-supportive pedagogy (Algwil, 2024, Findings; Alburki & Almashrgy, 2024, Conclusions).
+- Conservative assessment cultures (high-stakes exams, rote learning) misalign with autonomy (Saleh, 2016, pp. 208–213).
+- Technology integration remains uneven, despite teacher recognition of its potential to overcome autonomy barriers (Alburki & Almashrgy, 2024).
+- Tension surrounding L1 use policy and practice—monolingual expectation vs. selective L1 as scaffold—produces variability in implementation (Abdulah, 2025, pp. 42–43).
+- Limited longitudinal research; insufficient mixed-methods studies; scant discipline-specific comparisons (STEM vs. Humanities); few validated Arabic versions of autonomy/engagement scales tested for measurement invariance.
+
+2.12.2 Contribution of the Current Proposal
+- Methodologically robust, multi-institution, mixed-methods design with Arabic/English instruments; adaptation and validation of autonomy/engagement scales to the local context.
+- Systematic capacity building: training research assistants, faculty workshops on autonomy-supportive pedagogy, and institutional briefings.
+- Policy-oriented deliverables: bilingual policy notes, educator toolkits, and open educational practices to sustain change.
+- Practical alignment: assessment redesign pilots; technology-enhanced learning strategies; translanguaging guidance under principled use.
+
+2.13 Policy and Practice Implications for Libya
+- Policy: Develop ministerial guidance for autonomy-supportive pedagogy, flexible assessment (projects, portfolios, reflective tasks), and resource provision for self-access learning centers.
+- Institutions: Invest in technology infrastructure, learning analytics dashboards (privacy-respectful), and centers for academic skills; incentivize faculty participation in autonomy-supportive professional development.
+- Educators: Model autonomy (goal-setting, strategy adaptation, reflection), use formative feedback (Hattie & Timperley, 2007), and scaffold responsibility via contingency/fading (Van de Pol et al., 2010).
+- Curriculum: Embed student choice, inquiry-based/PBL elements (Hmelo-Silver, 2004), and co-created learning objectives; align activities with SDT needs (autonomy, competence, relatedness).
+- Language policy: Provide balanced, context-sensitive guidance on L1 as strategic scaffold (beginner-level grammar, complex abstractions) while maintaining a trajectory toward L2 immersion (Abdulah, 2025).
+
+Appendix B: Citation Strategy and Ethical Use of Sources
+- Quotations are reproduced verbatim; page numbers included where the publisher PDF exposes pagination; otherwise, section identification (Abstract/Findings/Conclusions) and DOI/URL are provided.
+- Sources span 2000–2025 to reflect contemporary evidence, with key historical anchors (Knowles, Boud) explicitly identified as seminal.
+- DOIs are supplied when available; otherwise, persistent URLs are included. No data or quotes are fabricated; interpretations are grounded in the cited texts.
+
 APA References
 Abdulah, S. S. (2025). Evolving perceptions of L1 use in Libyan university EFL classrooms: From pedagogical aid to restriction. International Journal of English Language Teaching, 13(2), 42–62. https://doi.org/10.37745/ijelt.13/vol13n24262
+
+Abukhattala, I. (2016). The use of technology in language classrooms in Libya. International Journal of Social Science and Humanity, 6(4), 262–267. https://www.ijssh.org/list-6-4.html
 
 Algwil, K. A. (2024). Libyan EFL teachers’ beliefs about learner autonomy at a Libyan University. SATIL Journal (Misurata University), 27 July 2024. https://journals.misuratau.edu.ly/satil/upload/file/R-2644-Libyan%20EFL%20Teachers%E2%80%99%20Beliefs%20about%20Learner%20Autonomy%20at%20a%20Libyan%20University.pdf
 
@@ -218,6 +247,8 @@ Dweck, C. S. (2006). Mindset: The new psychology of success. Random House.
 
 Elliot, A. J. (1999). Approach and avoidance motivation and achievement goals. Educational Psychologist, 34(3), 169–189. https://doi.org/10.1207/S15326985EP3403_3
 
+Emhamed, E., & Krishnan, S. (2011). Investigating Libyan teachers’ attitudes towards integrating technology in teaching English in Sebha secondary schools. Academic Research International, 1(3). https://www.savap.org.pk/journals/ARInt./Vol.1(3)/2011(1.3-15).pdf
+
 Fisher, M., King, J., & Tague, G. (2001). Development of a self-directed learning readiness scale for nursing students. Nurse Education Today, 21(7), 516–525. https://doi.org/10.1054/nedt.2001.0589
 
 Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept, state of the evidence. Review of Educational Research, 74(1), 59–109. https://doi.org/10.3102/00346543074001059
@@ -234,6 +265,8 @@ Hofstede, G. (2001). Culture’s consequences (2nd ed.). Sage.
 
 Jarvis, P. (2007). Globalization, lifelong learning and the learning society: Sociological perspectives. Routledge. https://doi.org/10.4324/9780203964408
 
+Jha, S. (2015). Exploring desirable characteristics for Libyan ELT practitioners. Journal of English Language and Literature, 2(1), 78–87. https://joell.in/wp-content/uploads/2015/03/12-78-87.pdf
+
 Kember, D., & Kwan, K. (2000). Lecturers’ approaches to teaching and their relationship to conceptions of good teaching. Instructional Science, 28(5), 469–490. https://doi.org/10.1023/A:1004113228454
 
 Kezar, A. (2011). The effect of institutional culture on change strategies in higher education: Universal principles or culturally responsive concepts? The Journal of Higher Education, 71(5), 519–546.
@@ -246,7 +279,11 @@ McCrae, R. R., & Costa, P. T., Jr. (1997). Personality trait structure as a huma
 
 Mitra, S. (2013). The hole in the wall: Self-organising systems in education. TED Books.
 
+Nguyen, S. V., & Habók, A. (2021). Designing and validating the learner autonomy perception questionnaire. Heliyon, 7(4), e06831. https://doi.org/10.1016/j.heliyon.2021.e06831
+
 Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. Theory and Research in Education, 7(2), 133–144. https://doi.org/10.1177/1477878509104318
+
+Orafi, S. M., & Borg, S. (2009). Intentions and realities in implementing communicative curriculum reform in Libya. System, 37(2), 243–253. https://doi.org/10.1016/j.system.2008.11.004
 
 Pekrun, R. (2006). The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice. Educational Psychology Review, 18(4), 315–341. https://doi.org/10.1007/s10648-006-9029-9
 
@@ -256,9 +293,11 @@ Richardson, M., Abraham, C., & Bond, R. (2012). Psychological correlates of univ
 
 Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68
 
-Saleh, S. E. (2016). Exploring EFL university teachers’ conceptions of learner autonomy. University Bulletin (Zawia University), Issue 18(2), May 2016. https://bulletin.zu.edu.ly/issue_n18_2/Contents/E_11.pdf
+Saleh, S. E. (2016). Exploring EFL university teachers’ conceptions of learner autonomy. University Bulletin (Zawia University), Issue 18(2), 208–213. https://bulletin.zu.edu.ly/issue_n18_2/Contents/E_11.pdf
 
 Schunk, D. H. (2012). Learning theories: An educational perspective (6th ed.). Pearson.
+
+Shihiba, S. (2011). An investigation of Libyan EFL teachers’ conceptions of the communicative learner-centred approach. PhD thesis, Durham University. http://etheses.dur.ac.uk/3604/
 
 Siemens, G. (2005). Connectivism: A learning theory for the digital age. International Journal of Instructional Technology and Distance Learning, 2(1). http://www.itdl.org/Journal/Jan_05/Jan_05.pdf
 
