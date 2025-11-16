@@ -17,22 +17,22 @@
       "output_format": "JSON with keys: 'title', 'abstract', 'domain_tags'."
     },
     "directive_2_deep_research_and_outline": {
-      "command": "Based on the provided title and abstract: '{title}', '{abstract}', conduct a deep, simulated web search to gather key sources, arguments, and data. Synthesize these findings into a comprehensive, structured outline for a full research article. The outline must follow the standard academic format (Intro, Lit Review, Analysis, Discussion, Conclusion).",
+      "command": "Based on the provided title and abstract: '{title}', '{abstract}', conduct a deep web search to gather verifiable sources (peer-reviewed articles and reputable institutional reports). Extract exact references with DOIs/URLs and compile a Preliminary Source List (APA style with DOIs/URLs). Synthesize these findings into a comprehensive, structured outline for a full research article. The outline must follow the standard academic format (Intro, Lit Review, Analysis, Discussion, Conclusion) and include a 'Verification Notes' subsection that briefly states how each source was validated (e.g., DOI resolution, publisher site check).",
       "input_variables": [
         "title",
         "abstract"
       ],
-      "output_format": "Markdown-formatted detailed outline."
+      "output_format": "Markdown-formatted detailed outline including a Preliminary Source List (APA + DOIs/URLs) and Verification Notes."
     },
     "directive_3_full_article_composition": {
-      "command": "Using the provided detailed outline: '{outline}', write a complete, professional, and insightful research article of approximately 2000-2500 words. The writing must be clear, engaging, and suitable for an academic blog audience. Weave together findings, add comparative analysis, and generate novel insights. Ensure a logical flow and robust argumentation.",
+      "command": "Using the provided detailed outline: '{outline}', write a complete, professional, and insightful research article of approximately 2000-2500 words. The writing must be clear, engaging, and suitable for an academic blog audience. Weave together findings, add comparative analysis, and generate novel insights. Ensure a logical flow and robust argumentation. Include in-text citations for all claims and add two terminal sections: (1) 'Verification Appendix' that lists each cited source with DOI/URL, retrieval date, and a one-line provenance check; and (2) 'References' formatted in APA with DOIs/URLs wherever available.",
       "input_variables": [
         "outline"
       ],
-      "output_format": "Plain text (.txt) ready for saving."
+      "output_format": "Plain text (.txt) ready for saving with in-text citations, Verification Appendix, and APA References."
     },
     "directive_4_reporting_and_summarization": {
-      "command": "From the full text of the article titled '{title}', generate a concise summary report for email notification. The report should be professional and easy to parse.",
+      "command": "From the full text of the article titled '{title}', generate a concise summary report for email notification. The report should be professional and easy to parse. Include a 'Key Sources' section in the email body listing the top 3-5 sources with APA references and DOIs/URLs.",
       "input_variables": [
         "title",
         "full_article_text"
@@ -132,7 +132,8 @@
         "3. Core Analysis / Argument",
         "4. Discussion and Implications",
         "5. Conclusion and Future Directions",
-        "6. References"
+        "6. Verification Appendix",
+        "7. References"
       ]
     },
     "email_report_template": {
